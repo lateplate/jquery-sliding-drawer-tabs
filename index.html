@@ -1,11 +1,41 @@
 <!DOCTYPE html>
 <head>
-  <title>Haml + Sass Framework [@dankim]</title>
+  <title>jQuery Sliding Drawer and Tabs [@dankim]</title>
   <meta charset='UTF-8'>
   <link href='css/styles.css' media='screen' rel='stylesheet' type='text/css'>
+  <script src='js/jquery-1.9.0.min.js'></script>
+  <script src='js/main.js'></script>
 </head>
 <body>
   <div class='container'>
-    Hello World!
+    <ul class='tabs-nav'>
+      <li>
+        <a href='#tab-1'>
+          Tab 1
+        </a>
+      </li>
+      <li>
+        <a href='#tab-2'>
+          Tab 2
+        </a>
+      </li>
+    </ul>
+    <div class='tabs-stage'>
+      <div class='tab' id='tab-1'>
+        <div class='panel'>
+          <div class='panel-stage'>
+            Win!
+          </div>
+          <div class='btn'>
+            <a class='panel-tab' href='#'>Open ▼</a>
+          </div>
+        </div>
+      </div>
+      <div class='tab' id='tab-2'>
+        <div class='panel'>
+          Move along. There's nothing to see here.
+        </div>
+      </div>
+    </div>
   </div>
 </body>

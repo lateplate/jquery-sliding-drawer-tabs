@@ -1,4 +1,4 @@
-/* line 1, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_placeholders.sass */
+/* line 1, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_placeholders.sass */
 legend, button::-moz-focus-inner,
 input::-moz-focus-inner, body, figure, button,
 input,
@@ -6,17 +6,17 @@ select,
 textarea {
   margin: 0; }
 
-/* line 4, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_placeholders.sass */
+/* line 4, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_placeholders.sass */
 legend, button::-moz-focus-inner,
 input::-moz-focus-inner, input[type="checkbox"],
 input[type="radio"] {
   padding: 0; }
 
-/* line 11, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_placeholders.sass */
+/* line 11, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_placeholders.sass */
 audio:not([controls]), [hidden] {
   display: none; }
 
-/* line 1, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 1, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 article,
 aside,
 details,
@@ -31,74 +31,74 @@ section,
 summary {
   display: block; }
 
-/* line 15, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 15, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 audio,
 canvas,
 video {
   display: inline-block; }
 
-/* line 20, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 20, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 audio:not([controls]) {
   height: 0; }
 
-/* line 27, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 27, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%; }
 
-/* line 35, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 35, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 a:focus {
   outline: thin dotted; }
 
-/* line 38, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 38, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 a:active,
 a:hover {
   outline: 0; }
 
-/* line 42, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 42, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 h1 {
-  font-size: 2em; }
+  font-size: 32px; }
 
-/* line 45, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 45, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 abbr[title] {
   border-bottom: 1px dotted; }
 
-/* line 48, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 48, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 b,
 strong {
   font-weight: bold; }
 
-/* line 52, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 52, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 dfn {
   font-style: italic; }
 
-/* line 55, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 55, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 mark {
   background: yellow;
   color: black; }
 
-/* line 59, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 59, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 code,
 kbd,
 pre,
 samp {
   font-family: monospace, serif;
-  font-size: 1em; }
+  font-size: 16px; }
 
-/* line 66, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 66, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 pre {
   white-space: pre-wrap; }
 
-/* line 69, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 69, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 q {
   quotes: "\201C" "\201D" "\2018" "\2019"; }
 
-/* line 72, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 72, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 small {
   font-size: 80%; }
 
-/* line 75, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 75, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 sub,
 sup {
   font-size: 75%;
@@ -106,29 +106,29 @@ sup {
   position: relative;
   vertical-align: baseline; }
 
-/* line 82, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 82, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 sup {
   top: -0.5em; }
 
-/* line 85, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 85, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 sub {
   bottom: -0.25em; }
 
-/* line 88, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 88, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 img {
   border: 0; }
 
-/* line 91, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 91, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 svg:not(:root) {
   overflow: hidden; }
 
-/* line 97, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 97, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 fieldset {
   border: 1px solid silver;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em; }
 
-/* line 105, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 105, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 button,
 input,
 select,
@@ -136,12 +136,12 @@ textarea {
   font-family: inherit;
   font-size: 100%; }
 
-/* line 113, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 113, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 button,
 input {
   line-height: normal; }
 
-/* line 117, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 117, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 button,
 html input[type="button"],
 input[type="reset"],
@@ -149,34 +149,101 @@ input[type="submit"] {
   -webkit-appearance: button;
   cursor: pointer; }
 
-/* line 124, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 124, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 button[disabled],
 html input[disabled] {
   cursor: default; }
 
-/* line 128, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 128, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box; }
 
-/* line 133, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 133, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 input[type="search"] {
   -webkit-appearance: textfield;
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
   box-sizing: content-box; }
 
-/* line 139, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 139, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none; }
 
-/* line 147, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 147, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 textarea {
   overflow: auto;
   vertical-align: top; }
 
-/* line 151, /Users/dankim/dropbox/web/starterleague/homework/preprocessor-framework/css/_normalize.sass */
+/* line 151, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/_normalize.sass */
 table {
   border-collapse: collapse;
   border-spacing: 0; }
+
+/* line 8, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+body {
+  font-size: 16px; }
+
+/* line 11, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+a {
+  text-decoration: none;
+  display: inline-block; }
+
+/* line 15, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+/* line 20, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+li {
+  display: inline;
+  border: 1px solid black;
+  width: 400px; }
+
+/* line 25, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+.container {
+  margin: 10px; }
+
+/* line 28, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+.panel {
+  width: 700px;
+  height: 200px;
+  padding: 0;
+  border-top: 2px solid black; }
+
+/* line 34, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+.panel-stage {
+  -webkit-border-radius: 0 0 5px 5px;
+  -moz-border-radius: 0 0 5px 5px;
+  border-radius: 0 0 5px 5px;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  width: 500px;
+  height: 300px;
+  padding: 10px;
+  display: none;
+  margin: 0 auto; }
+
+/* line 42, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+.btn {
+  -webkit-border-radius: 0 0 5px 5px;
+  -moz-border-radius: 0 0 5px 5px;
+  border-radius: 0 0 5px 5px;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  text-align: center;
+  margin: 0 auto;
+  width: 100px;
+  height: 24px; }
+
+/* line 50, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+.tabs-nav a {
+  width: 100px; }
+
+/* line 53, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+.tab-active {
+  background-color: yellow; }

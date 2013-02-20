@@ -4,3 +4,51 @@
 @import "grid"
 @import "typography"
 @import "mixins"
+
+body
+  font-size: $font-size-base
+
+a
+  text-decoration: none
+  display: inline-block
+
+ul 
+  list-style: none
+  margin: 0
+  padding: 0
+
+li
+  display: inline
+  border: 1px solid black
+  width: 400px
+
+.container
+  margin: 10px
+
+.panel
+  width: 700px
+  height: 200px
+  padding: 0
+  border-top: 2px solid black
+
+.panel-stage
+  +border-no-top(black, 5px)
+  width: 500px
+  height: 300px
+  padding: 10px
+  display: none
+  margin: 0 auto
+
+.btn
+  +border-no-top(black, 5px)
+  text-align: center
+  margin: 0 auto
+  width: 100px
+  height: 24px
+
+.tabs-nav
+  a
+    width: 100px
+
+.tab-active
+  background-color: yellow
