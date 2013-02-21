@@ -204,16 +204,17 @@ li {
 
 /* line 25, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
 .container {
-  margin: 10px; }
-
-/* line 28, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
-.panel {
   width: 700px;
-  height: 200px;
+  margin: 10px auto; }
+
+/* line 29, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+.panel {
+  width: 562px;
+  height: 315px;
   padding: 0;
   border-top: 2px solid black; }
 
-/* line 34, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+/* line 35, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
 .panel-stage {
   -webkit-border-radius: 0 0 5px 5px;
   -moz-border-radius: 0 0 5px 5px;
@@ -221,13 +222,13 @@ li {
   border-right: 1px solid black;
   border-bottom: 1px solid black;
   border-left: 1px solid black;
-  width: 500px;
-  height: 300px;
-  padding: 10px;
+  width: 560px;
+  height: 315px;
+  padding: 0;
   display: none;
   margin: 0 auto; }
 
-/* line 42, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+/* line 43, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
 .btn {
   -webkit-border-radius: 0 0 5px 5px;
   -moz-border-radius: 0 0 5px 5px;
@@ -240,10 +241,10 @@ li {
   width: 100px;
   height: 24px; }
 
-/* line 50, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+/* line 51, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
 .tabs-nav a {
   width: 100px; }
 
-/* line 53, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
+/* line 54, /Users/dankim/dropbox/web/github/jquery-sliding-drawer-tabs/css/styles.sass */
 .tab-active {
   background-color: yellow; }
